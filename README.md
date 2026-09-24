@@ -106,7 +106,7 @@ This architecture ensures separation of concerns, allowing each component to be 
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/johnnykhloudhost/LiteAgent.git
+git clone https://github.com/jagdish-pulpet/LiteAgent.git
 cd liteagent
 ```
 
@@ -333,7 +333,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Project Link: [https://github.com/johnnykhloudhost/LiteAgent](https://github.com/johnnykhloudhost/LiteAgent)
+Project Link: [https://github.com/jagdish-pulpet/LiteAgent](https://github.com/jagdish-pulpet/LiteAgent)
 
 ---
 
